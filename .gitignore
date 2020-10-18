@@ -1,0 +1,11 @@
+/.idea/
+/.idea/*
+/log/
+/log/*
+/target/
+/target/*
+/shelf/
+/workspace.xml
+/dataSources/
+/dataSources.local.xml
+/httpRequests/
